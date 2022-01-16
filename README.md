@@ -1,6 +1,6 @@
 # Wedding Landing Page - abdul halim & hayati 
 
-![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
+![Thumbnail](/image/halim-hayati.png)
 
 
 # Section/Feature
