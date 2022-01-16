@@ -12,7 +12,7 @@
 - Map Direction Button (Google Map)
 - Send Message Button (Whatssapp API)
 - Fitur komentar 
-  *create database -> input
+- database mysql
 
 # Stack
 - Netlify (https://netlify.com)
