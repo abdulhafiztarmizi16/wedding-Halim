@@ -1,4 +1,4 @@
-# Wedding Landing Page - Daeng Sherly Menikah
+# Wedding Landing Page - abdul halim & hayati 
 
 ![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
 
@@ -19,6 +19,7 @@
 - Bulma CSS (https://bulma.io)
 
 # Info
+Modified from 
 - Live version check at: https://sherly.dae.ng/
 - Or check demo at: https://sherly-daeng-menikah.netlify.app/
 - Check my web at: https://daengdoang.com :)
