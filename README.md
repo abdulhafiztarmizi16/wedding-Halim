@@ -1,6 +1,7 @@
-# Wedding Landing Page - Daeng Sherly Menikah
+# Wedding Landing Page - abdul halim & hayati 
 
-![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
+
+![Thumbnail](/image/halim-hayati.png)
 
 
 # Section/Feature
@@ -10,6 +11,8 @@
 - Add to Calendar Button (Google Calendar)
 - Map Direction Button (Google Map)
 - Send Message Button (Whatssapp API)
+- Fitur komentar 
+- database mysql
 
 # Stack
 - Netlify (https://netlify.com)
@@ -19,9 +22,9 @@
 - Bulma CSS (https://bulma.io)
 
 # Info
+Modified from 
 - Live version check at: https://sherly.dae.ng/
 - Or check demo at: https://sherly-daeng-menikah.netlify.app/
-- Check my web at: https://daengdoang.com :)
 
 # Fonts
 - Rouge Script (Google Font)
